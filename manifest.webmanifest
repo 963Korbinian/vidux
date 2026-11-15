@@ -1,0 +1,17 @@
+{
+  "name": "VIDUX — your shop's book",
+  "short_name": "VIDUX",
+  "description": "Free shop ledger for Sri Lanka: credit, cash, stock and bills. Works without internet.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0F0A1E",
+  "theme_color": "#1A0A3E",
+  "lang": "en",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
